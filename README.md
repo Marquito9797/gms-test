@@ -1,4 +1,4 @@
-# gms-test
+# Automação de Testes EBAC
 
 🧪 Jornada Tech QA - Projeto Final
 Este repositório contém as atividades desenvolvidas durante a Jornada Tech QA promovida pela EBAC.
